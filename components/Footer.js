@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.footerContainer}>
         <p>
-          &copy; {currentYear} AkmalStore. Dibuat dengan Next.js.
+          &copy; {currentYear} Malzxyz. Dibuat dengan Next.js.
         </p>
         {/* Anda bisa menambahkan link sosial media atau info lain di sini */}
       </div>
