@@ -1,0 +1,9 @@
+{
+  "pterodactylDomain": "shamrezxmalz.server-panel.my.id",
+  "pterodactylApiKeyPTLA": "ptla_GqqJezVgbkjXToiRCGotIa0UahRGg4w1om2j9Ld6bWb",
+  "pterodactylApiKeyPTLC": "ptlc_qrYEHEJsFo8cyOaM5Mkrh2GtKNB2zzJ9QRjewcPO5Vc=1",
+  "defaultLocationId": "1",
+  "defaultEggId": "15",
+  "defaultNestId": "5",
+  "apiWrapperUrl": "https://api-malzxyz.vercel.app"
+}
